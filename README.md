@@ -26,5 +26,5 @@ Este es un proyecto para organizar un juego de Amigo Secreto en línea. Permite 
 ## Autor
 Kaily Herrera
 
-# Agradecimientos
+#  Agradecimientos
 Estoy muy feliz de poder participar en la generacion G9 del programa ONE. Muchas gracias Alura por esta gran oportunidad, estaré esperando por los siguientes desafios.
